@@ -23,3 +23,5 @@ DerivedData
 Pods
 *.xcworkspace
 
+# Bundler
+vendor/
